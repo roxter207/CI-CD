@@ -18,7 +18,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Run a one-line script
-        run: echo Hello, world!
+        run: echo Hello, world! this is moi i am bored.
 
       - name: Run a multi-line script
         run: |
