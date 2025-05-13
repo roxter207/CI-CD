@@ -25,5 +25,5 @@ jobs:
           echo Add other actions to build,
           echo test, and deploy your project.
 
-      - name: Font Bakery CI
-        uses: f-actions/font-bakery@v3.1.1
+      - name: Codecov
+        uses: codecov/codecov-action@v5.4.2
